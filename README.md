@@ -9,6 +9,7 @@ The reason for refactoring was to both improve the website's search engine optim
 I was able to learn more about the default settings for many attributes, more detailed semantic language in HTML and CSS, and how to optimize selectors in CSS files for efficient viewing and use.
 
 ## Table of Contents
+- [Usage](#usage)
 - [Commit-Notes](#commit-notes)
 - [Initial-Commit](#initial-commit)
 - [Commit-2](#commit-2)
@@ -20,11 +21,22 @@ I was able to learn more about the default settings for many attributes, more de
 - [Commit-8](#commit-8)
 - [Commit-9](#commit-9)
 - [Commit-10](#commit-10)
+- [Commit-11](#commit-11)
 - [Screenshots](#screenshots)
 - [Screenshot-1](#screenshot-1)
 - [Screenshot-2](#screenshot-2)
 - [Screenshot-3](#screenshot-3)
 - [Link](#link)
+
+## Usage
+
+1. First, clone the repository from GitHub from the repository homepage onto your device.
+
+2. Use $ git pull in your Git Bash or terminal to pull the materials from the repository onto your device.
+
+3. Open the index.html and style.css files from their respective locations in the repository in VS Code or code editor of your choosing.
+
+4. Open the index.html file in your default browser.
 
 ## Commit Notes
 
@@ -91,6 +103,9 @@ I was able to learn more about the default settings for many attributes, more de
 	• Reordered and added comments to group CSS selectors for improved organization
 	• Added Commit 10 to the README file
 
+### Commit 11:
+  	• Added deployment link, usage section, and Commit 11 notes to the README.md file
+
 ## Screenshots
 
 ### Screenshot #1:
@@ -107,3 +122,4 @@ I was able to learn more about the default settings for many attributes, more de
 
 ## Link
 
+Deployed Page: https://fredkk22.github.io/Module-1-Challenge/
