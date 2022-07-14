@@ -16,6 +16,8 @@ I was able to learn more about the default settings for many attributes, more de
 - [Commit-4](#commit-4)
 - [Commit-5](#commit-5)
 - [Commit-6](#commit-6)
+- [Commit-7](#commit-7)
+- [Commit-8](#commit-8)
 - [Screenshots](#screenshots)
 - [Screenshot-1](#screenshot-1)
 - [Screenshot-2](#screenshot-2)
@@ -72,6 +74,9 @@ I was able to learn more about the default settings for many attributes, more de
 
 ### Commit 7:
     • Removed all three empty ID selectors from the CSS file
+
+### Commit 8:
+    • Added a Commit 7 and Commit 8 notes section to the README file's Table of Contents
 
 ## Screenshots
 
