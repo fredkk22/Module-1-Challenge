@@ -70,6 +70,9 @@ I was able to learn more about the default settings for many attributes, more de
 	• Completed first draft of the README file (missing the deployed application link)
     • Added screenshots of the website to the "images" folder in the Module-01-Challenge repository
 
+### Commit 7:
+    • Removed all three empty ID selectors from the CSS file
+
 ## Screenshots
 
 ### Screenshot #1:
