@@ -18,6 +18,7 @@ I was able to learn more about the default settings for many attributes, more de
 - [Commit-6](#commit-6)
 - [Commit-7](#commit-7)
 - [Commit-8](#commit-8)
+- [Commit-9](#commit-9)
 - [Screenshots](#screenshots)
 - [Screenshot-1](#screenshot-1)
 - [Screenshot-2](#screenshot-2)
@@ -77,6 +78,9 @@ I was able to learn more about the default settings for many attributes, more de
 
 ### Commit 8:
     • Added a Commit 7 and Commit 8 notes section to the README file's Table of Contents
+
+### Commit 9:
+    • Added the "clear: both;" attribute back to the "footer" element selector
 
 ## Screenshots
 
