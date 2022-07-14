@@ -13,6 +13,7 @@ I was able to learn more about the default settings for many attributes, more de
 - [Screenshot-1](#screenshot-1)
 - [Screenshot-2](#screenshot-2)
 - [Screenshot-3](#screenshot-3)
+- [Credits](#credits)
 - [Link](#link)
 
 ## Usage
@@ -21,7 +22,7 @@ I was able to learn more about the default settings for many attributes, more de
 
 2. Use $ git pull in your Git Bash or terminal to pull the materials from the repository onto your device.
 
-3. Open the index.html and style.css files from their respective locations in the repository in VS Code or code editor of your choosing.
+3. Open the index.html from the repository in VS Code or code editor of your choosing.
 
 4. Open the index.html file in your default browser.
 
@@ -38,6 +39,20 @@ I was able to learn more about the default settings for many attributes, more de
 ### Screenshot #3:
 
 ![Screenshot-3](./assets/images/Module-01-Challenge-Screenshot-3.PNG)
+
+## Credits
+
+### Special Thanks to:
+
+Sean Dillon https://github.com/DeviousDoge/
+
+Juliana Lamond https://github.com/jlamond37
+
+### Links Used for Reference:
+
+https://www.freecodecamp.org/news/semantic-html5-elements/
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## Link
 
